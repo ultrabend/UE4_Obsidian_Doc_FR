@@ -7,8 +7,12 @@
         "id": "17226e5b757a6986",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Widget/Widget Blue print.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Widget/Widget Blue print.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +97,15 @@
   },
   "active": "17226e5b757a6986",
   "lastOpenFiles": [
+    "Widget/Widget Blue print.md",
+    "Performance and Profiling/1 - Réduire la taille des paquets APK.md",
+    "Performance and Profiling/0 - Performance et Profiling.md",
     "Projets dans UE4/Packaging de projets.md",
     "CryptoSettings.jpg",
     "message_log.jpg",
     "log.jpg",
     "progress.jpg",
     "packaging_menu.jpg",
-    "Project_Settings_MapsNModes.jpg",
-    "Performance and Profiling/1 - Réduire la taille des paquets APK.md",
-    "Performance and Profiling/0 - Performance et Profiling.md",
-    "README.md"
+    "Project_Settings_MapsNModes.jpg"
   ]
 }
