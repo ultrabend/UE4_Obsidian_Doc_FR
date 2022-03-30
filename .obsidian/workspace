@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Performance and Profiling/0 - Performance and Profiling.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ad723fd3301c0f3c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
+            "file": "Performance and Profiling/1 - Réduire la taille des paquets APK.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Performance and Profiling/0 - Performance and Profiling.md",
+                "file": "Performance and Profiling/1 - Réduire la taille des paquets APK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,25 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "5f2f03365095e6e2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "17226e5b757a6986",
   "lastOpenFiles": [
-    "Performance and Profiling/0 - Performance and Profiling.md",
     "Performance and Profiling/1 - Réduire la taille des paquets APK.md",
+    "Performance and Profiling/0 - Performance et Profiling.md",
+    "Projets dans UE4/Packaging de projets.md",
     "README.md",
     "Blueprints/Save Game.md",
     "Pipeline/DrawCalls.md",
     "Widget/Widget Blue print.md",
     "Pipeline/Vertex Shader.md",
     "Pipeline/Realtime Rendering.md",
-    "Pipeline/Occlusion.md",
-    "Lighting/Initialisation de la lumière.md"
+    "Pipeline/Occlusion.md"
   ]
 }
