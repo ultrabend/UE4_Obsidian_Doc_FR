@@ -7,8 +7,12 @@
         "id": "17226e5b757a6986",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Blueprints/Input.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Blueprints/Input.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,15 +98,15 @@
   },
   "active": "17226e5b757a6986",
   "lastOpenFiles": [
+    "Blueprints/Input.md",
+    "class_default.png",
+    "Pasted image 20220401155437.png",
+    "Pasted image 20220401155332.png",
+    "Blueprints/Save Game.md",
+    "Audio and Sounds/Quartz Music System.md",
+    "Lighting/Initialisation de la lumière.md",
     "Pipeline/Realtime Rendering.md",
     "Rendu temps réel et optimisation/0 - Rendu temps réel et optimisation.md",
-    "Rendu temps réel et optimisation/1 - Le Pipeline.md",
-    "Widget/Widget Blue print.md",
-    "Performance and Profiling/1 - Réduire la taille des paquets APK.md",
-    "Performance and Profiling/0 - Performance et Profiling.md",
-    "Projets dans UE4/Packaging de projets.md",
-    "CryptoSettings.jpg",
-    "message_log.jpg",
-    "log.jpg"
+    "Rendu temps réel et optimisation/1 - Le Pipeline.md"
   ]
 }
